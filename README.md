@@ -1,5 +1,9 @@
 # React Part Time Class Final Project
 
+## Project Name
+
+National Park Finder
+
 ## Project Links
 
 - [N/A]()
