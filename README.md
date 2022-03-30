@@ -44,9 +44,6 @@ If you opted to make use of an API then use this section to include info about t
 [data](https://developer.nps.gov/api/v1/parks?api_key=hBz9KsIWoEpxieAaV3pZ1KXeXNPx8mkIpVkbZe8a)
 
 ## Components
-##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
-
-Based on the initial logic defined in the previous sections try and breakdown the logic further into stateless/stateful components. 
 
 | Component | Description | 
 | --- | :---: |  
