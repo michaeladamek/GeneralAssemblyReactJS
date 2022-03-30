@@ -28,7 +28,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - List Parks
 - Show a list of activities for each park
 - Show an image of each park
-- Other infor about each park
+- Other info about each park
 
 #### PostMVP EXAMPLE
 
@@ -38,7 +38,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 ## API
 
-If you opted to make use of an API then use this section to include info about the API you have chosen and a code snippet of the data that it returns and is required for your project. 
+I really wanted to work on incorperating an API into my project. I started of by looking for a Vermont or Maine State Park API but wasn't having much luck. The I looked at the National Parks Site and found they have an API that list every park. It's a massive amount of data. I would like to filter it down to just list the parks that are ```"designation": "National Park"```.
 
 
 [data](https://developer.nps.gov/api/v1/parks?api_key=hBz9KsIWoEpxieAaV3pZ1KXeXNPx8mkIpVkbZe8a)
