@@ -10,7 +10,7 @@ National Park Finder
 
 ## Project Description
 
-I want to make a site the filters info about the different National Parks. See the [nps.gov](https://www.nps.gov/state/wa/index.htm) site for Washington. Thoughts about how this would work at the filter parts by state, maybe by type (if I do more that just the BIG national parks), or by features, or activities. 
+I want to make a site the filters info about the different National Parks. See the [nps.gov](https://www.nps.gov/state/wa/index.htm) site for Washington. Thoughts about how this would work at the filter parks by state, maybe by type (if I do more that just the BIG national parks), or by features, or activities. 
 
 ## Wireframes
 
